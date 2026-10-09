@@ -1,0 +1,15 @@
+# Dependencias y temporales
+node_modules/
+dist/
+build/
+
+# Entorno y variables
+.env
+.env.*
+
+# Logs y sistema
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
